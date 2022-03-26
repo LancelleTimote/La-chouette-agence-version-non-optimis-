@@ -1,3 +1,3 @@
-OpenClassrooms projet 4 - Optimiser un site web existant.
+# Projet n°3 : Optimiser un site web existant - site avant changement
 
-Fichiers originaux sans modifications.
+## Fichiers originaux sans modifications
